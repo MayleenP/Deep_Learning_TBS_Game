@@ -1,0 +1,6 @@
+# ignore all .xlsx files
+*.xlsx
+
+# ignore all .docx files
+*.docx
+
