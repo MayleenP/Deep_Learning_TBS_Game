@@ -1,8 +1,8 @@
 # created by virtualenv automatically
-
+*
 
 # ignore all .xlsx files
-.xlsx
+*.xlsx
 
 # ignore all .docx files
-.docx
+*.docx
