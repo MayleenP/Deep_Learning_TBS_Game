@@ -1,8 +1,8 @@
 # created by virtualenv automatically
 
 
-# ignore all .xlsx files in Deep_Learning_TBS_Game directory
-/Deep_Learning_TBS_Game/.xlsx
+# ignore all .xlsx files
+.xlsx
 
-# ignore all .docx files in Deep_Learning_TBS_Game directory
-/Deep_Learning_TBS_Game/.docx
+# ignore all .docx files
+.docx
