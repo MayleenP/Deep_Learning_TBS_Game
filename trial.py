@@ -16,4 +16,7 @@ SP = float(input(" Input the Skill_Percentage: "))
 #Calculations 计算公式
 #基础伤害
 BDMG = (BAP + ExAP)*SP
+print(Chr)
+print(Chr_lvl)
+print(Chr_skl)
 print(BDMG)
